@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bbqdelight:cooked_chicken_skewer"
+    },
+    {
+      "item": "bbqdelight:pepper"
+    }
+  ],
+  "result": {
+    "id": "bbqdelight:cooked_chicken_skewer_pepper",
+    "count": 1
+  }
+}

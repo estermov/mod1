@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "bbqdelight",
+  "version": "${version}",
+  "name": "BBQ Delight",
+  "description": "Churrasco no Minecraft: monte espetos na bacia, asse na grelha (vire na hora certa!) e tempere com cominho, pimenta ou pimenta-malagueta. Remake independente inspirado no Barbeque's Delight.",
+  "authors": ["Voce"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.example.bbqdelight.BbqDelight"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
